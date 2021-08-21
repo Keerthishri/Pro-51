@@ -1,0 +1,41 @@
+.grid img{
+    border: 2px solid #2b0770;
+    border-radius: 50px;
+}
+
+.origami{
+    border-radius: 20 px;
+    background-color:#fc5d84;
+    justify-content: space-between;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+
+.grid{
+   display: initial;
+   flex-wrap: inherit;
+
+}
+
+.menu{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #e9f362;
+    padding: 15px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    color: #f501fd;
+}
+
+body{
+    margin: 0px;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:#40ffe6a8;
+}
